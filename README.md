@@ -1,6 +1,6 @@
 ### Hi there! 😁
 
-My name is Carlos Henrique Motta, and I'm from Brazil (🇧🇷). I've been working as Front-End Developer since 2013 and I'm currently working as a Coder at [Socialbakers](https://www.socialbakers.com/), creating new and maintaining existing UI components, cooperating with product development feature teams, coding across all product sections, and close cooperation with UI/UX design team.
+My name is Carlos Henrique Motta, and I'm from Brazil (🇧🇷). I've been working as a Front-End Developer since 2013 and I'm currently working as a Coder at [Socialbakers](https://www.socialbakers.com/), creating new and maintaining existing UI components, cooperating with product development feature teams, coding across all product sections, and close cooperation with UI/UX design team.
 
 I also worked at [Solidaridad Network](https://www.solidaridadnetwork.org/), using technology to create a positive impact in people's lives, through technological inclusion.
 
