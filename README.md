@@ -6,10 +6,11 @@ I also worked at [Solidaridad Network](https://www.solidaridadnetwork.org/), usi
 
 I aim to help develop a better world by using technology as a key to empowering people and help them to see technology as a life changer.
 
-In my free time I like to play (and watch) soccer (⚽️) or any kind of old-fashioned game that brings me some nostalgia, such as Counter-Strike (🔫) or Age of Empires (🏰), to watch movies (🎞️) and series (📺), to read books (📚), to listen to music (🎵) and eventually I like to philosophize about life with a beer (🍺).
+In my free time I like to watch soccer (⚽️) or play any kind of old-fashioned game that brings me some nostalgia, such as Counter-Strike (🔫) or Age of Empires (🏰). I also like to watch movies (🎞️) and series (📺), to read books (📚), to listen to music (🎵) and eventually I like to philosophize about life with a beer (🍺).
 
 Would you like to find me?
 
+[![Portfolio](https://img.shields.io/badge/CM-portfolio-blue)](https://caike08.github.io/portfolio/)
 [![Twitter Badge](https://img.shields.io/badge/-Twitter-1ca0f1?style=flat-square&labelColor=1ca0f1&logo=twitter&logoColor=white&link=https://twitter.com/caike08)](https://twitter.com/caike08)
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/caikemotta)](https://www.linkedin.com/in/caikemotta)
 <!--
