@@ -2,7 +2,9 @@
 
 My name is Carlos Henrique Motta, and I'm a Front-end developer/UX from Brazil (🇧🇷). I've been working with web development since 2013.
 
-Experience-wise, I have worked at [Solidaridad Network](https://www.solidaridadnetwork.org/), using technology to create a positive impact in people's lives, through technological inclusion. I also worked as a Front-end / UI Developer at [Emplifi](https://www.emplifi.io/), creating new and maintaining existing UI components, cooperating with product development feature teams, coding across all product sections, and working closely with UI/UX design team.
+Experience-wise, I have worked at [Solidaridad Network](https://www.solidaridadnetwork.org/), using technology to create a positive impact in people's lives, through technological inclusion. 
+
+I've also worked as a Front-end / UI Developer at [Emplifi](https://www.emplifi.io/), creating new and maintaining existing UI components, cooperating with product development feature teams, coding across all product sections, and working closely with UI/UX design team.
 
 I aim to help develop a better world by using technology as a key to empowering people and help them to see technology as a life changer.
 
