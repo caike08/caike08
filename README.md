@@ -1,6 +1,6 @@
 ### Hi there! 😁
 
-My name is Carlos Henrique Motta, and I'm a Front-end developer/UX from Brazil (🇧🇷). I've been working with web development since 2017. I currently work at [@agencyenterprise](https://ae.studio/) as a Full-stack Engineer.
+My name is Carlos Henrique Motta, and I'm a Full-stack developer/UX from Brazil (🇧🇷). I've been working with web development since 2017. I currently work at [@agencyenterprise](https://ae.studio/) as a Full-stack Engineer.
 
 Experience-wise, I have worked at [Solidaridad Network](https://www.solidaridadnetwork.org/), using technology to create a positive impact in people's lives, through technological inclusion. 
 
